@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERn shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tboy4all/ProShop.git"
+  },
+  "author": "Taiye Suleiman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tboy4all/ProShop/issues"
+  },
+  "homepage": "https://github.com/tboy4all/ProShop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
